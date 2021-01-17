@@ -1,0 +1,105 @@
+*
+.main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+   background: black;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: -8px;
+}
+
+.menu ul{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    display: inline-flex;
+}
+.menu li{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.menu li a:hover{
+    color: salmon;
+    text-decoration: overline;
+}
+.menu li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: rgb(243, 243, 243);
+}
+* 
+
+{
+
+box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: rgb(204, 245, 247);
+}
+.bloquetitulo{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(83, 159, 230);
+}
+.parrafotitulo1{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+.imagenesciber {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+.titulo2 {
+
+        font-size: 40px;
+        letter-spacing: 1px;
+        margin: 0;
+        padding-top: 50px;
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(83, 159, 230);
+        
+}
+.color3{
+    color: rgb(154, 85, 219);
+    }
+    .color4{
+        color: rgb(156, 36, 0);
+    }
+    .footer-style {
+        padding-top: 50px;
+        background-color: #2C3E50;
+    }
+    footer {
+      color: white;
+    }
+    footer h3 {
+      margin-bottom: 30px;
+        font-weight: 800;
+    }
+    footer .footer-above {
+      padding-top: 50px;
+      background-color: #2C3E50;
+    }
+    footer .footer-col {
+      margin-bottom: 50px;
+    }
+    footer .footer-below {
+      padding: 25px 0;
+      background-color: #233140;
+    }
